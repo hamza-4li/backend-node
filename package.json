@@ -1,0 +1,17 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "This is a professional backend production base software educational purpose software development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend",
+    "JavaScript",
+    "Express",
+    "Mongoose"
+  ],
+  "author": "Syed Hamza Ali",
+  "license": "ISC"
+}
